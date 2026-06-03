@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "kawiazinho.aternos.me:63639",
-    "port":63639,
-    "version": "",
+    "ip": "kawiazinho.aternos.me",
+    "port": 63639,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
