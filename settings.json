@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "kawiazinho.aternos.me",
+    "ip": "lamprey.aternos.host",
     "port": 63639,
     "version":  "1.21.1",
     "try-creative": false
